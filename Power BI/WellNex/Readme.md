@@ -3,6 +3,16 @@
 ## Project Overview
 This Power BI project was conducted for a fictional fitness and wellness company called **WellNex**. WellNex offers a diverse range of products and services, including fitness equipment, nutritional supplements, wellness coaching, and health food products. The goal of this project was to leverage customer data and insights from recent marketing campaigns to enhance WellNex's marketing strategies, optimize product offerings, and better understand customer behavior.
 
+### Campaigns Dashboard
+![Campaigns](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Power%20BI/WellNex/Screenshots/Campaign%20Dashboard.png)
+### Customers Dashboard
+![Customers](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Power%20BI/WellNex/Screenshots/Customers%20Dashboard.png)
+### Purchase Factors Dashboard
+![PurchaseFactors](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Power%20BI/WellNex/Screenshots/Purchase%20Factors%20Dashboard.png)
+### Data Model
+![DataModel](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Power%20BI/WellNex/Screenshots/WellNex%20Data%20Model.png)
+
+
 
 ## Project Objectives
 The analysis focused on addressing several key business questions:
