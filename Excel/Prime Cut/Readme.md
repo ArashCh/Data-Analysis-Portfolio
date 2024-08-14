@@ -1,7 +1,7 @@
 # Prime Cut Meat Shop - Excel Data Analysis Project
 Welcome to the "Prime Cut Meat Shop" data analysis portfolio project! This project involves a detailed analysis of a fictional meat-selling shop's data using Microsoft Excel. The dataset was generated using Python to mimic real-world behavior and statistical characteristics, enabling a comprehensive exploration of various business metrics. The primary focus of this project is to provide insights into customer behavior, product sales, and overall business performance through the use of Excel features and data visualization techniques.
 
-
+![Dashboard](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Excel/Prime%20Cut/Dashboard%20Screenshot.png)
 
 
 ## Project Overview
