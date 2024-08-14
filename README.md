@@ -1,1 +1,4 @@
-# Data-Analysis-Portfolio-
+# Data Analysis Portfolio
+## Python
+## Excel
+## Power BI
