@@ -72,3 +72,12 @@ Follow the steps outlined in the Python script provided in the repository to gen
 - **data/:** Folder containing the generated CSV files.
 - **README.md:** This README file.
 
+
+---
+**Author:** [A. Arash Chitgar](https://www.linkedin.com/in/a-arash-chitgar/)
+
+**Contact:**
+- [Telegram](https://t.me/Arash_Chitgar)
+- [Email](a.arash.chitgar@gmail.com)
+
+
