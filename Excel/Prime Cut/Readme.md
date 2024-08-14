@@ -66,3 +66,9 @@ Use the interactive filters to explore different aspects of the data and gain in
 ### Replicate the Analysis:
 Follow the steps outlined in the Python script provided in the repository to generate your own fictional dataset and replicate the analysis.
 
+
+## Repository Contents
+- **Prime Cut.xlsx:** The Excel file containing the dashboard.
+- **data/:** Folder containing the generated CSV files.
+- **README.md:** This README file.
+
