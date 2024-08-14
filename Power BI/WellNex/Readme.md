@@ -44,3 +44,10 @@ The analysis focused on addressing several key business questions:
 ## Results
 The insights gained from this dashboard provided WellNex with a clearer understanding of their customer base and the effectiveness of their marketing strategies. The analysis highlighted areas of improvement for future campaigns and identified key demographic segments to target for increased sales. This project demonstrates the power of data-driven decision-making in enhancing business outcomes.
 
+
+---
+**Author:** [A. Arash Chitgar](https://www.linkedin.com/in/a-arash-chitgar/)
+
+**Contact:**
+- [Telegram](https://t.me/Arash_Chitgar)
+- [Email](a.arash.chitgar@gmail.com)
