@@ -38,11 +38,12 @@ The project was structured around three key objectives:
 
 ## Tools and Techniques
 - **Python & Pandas:** Used for data manipulation, cleaning, and aggregation tasks to create the required DataFrames.
-  - You can find my code (an ipynb file) here as well. I've asked [Mr. Chris Dutton](https://mavenanalytics.io/meet-the-team/chris-dutton) directly for his permission for sharing the code on my portfolio)
+  - You can find my code (an ipynb file) [here](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Python/Maven%20Analytics%20-%20Airbnb%20Listings%20%26%20Reviews/AirBnB%20Listing%20Analysis%20in%20Paris.ipynb) as well. I've asked [Mr. Chris Dutton](https://mavenanalytics.io/meet-the-team/chris-dutton) directly for his permission for sharing the code on my portfolio)
 - **Matplotlib:** Utilized for creating and customizing visualizations.
 
 ![MavenAnalytics Badge](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Python/Maven%20Analytics%20-%20Airbnb%20Listings%20%26%20Reviews/MavenAnalytics-Airbnb-Listing-Badge.png)
 
+[Visit My Maven Analytics Portfolio](https://mavenanalytics.io/project/18400)
 The Guided Project on [Maven Analytics](https://mavenanalytics.io/) is instructed by [Mr. Chris Bruehl](https://mavenanalytics.io/meet-the-team/chris-bruehl)
 
 
