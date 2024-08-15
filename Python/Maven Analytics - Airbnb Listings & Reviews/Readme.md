@@ -3,6 +3,11 @@
 ## Project Overview
 This project focused on analyzing AirBnB listings in Paris, with a particular emphasis on understanding the impact of recent regulations on the market. The project involved data profiling, preparation for visualization, and detailed analysis to draw meaningful insights from the data. The primary goal was to determine how the 2015 regulations affected new host entries and the pricing landscape in Paris.
 
+![Average Airbnb Prices Across Paris Neighbourhoods - Elysee Leads with Highest Rates](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Python/Maven%20Analytics%20-%20Airbnb%20Listings%20%26%20Reviews/Visualizations/Average%20Airbnb%20Prices%20Across%20Paris%20Neighbourhoods%20-%20Elysee%20Leads%20with%20Highest%20Rates.png)
+![Airbnb Prices in Elysee - Higher Occupancy Leads to Significantly Higher Rates](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Python/Maven%20Analytics%20-%20Airbnb%20Listings%20%26%20Reviews/Visualizations/Airbnb%20Prices%20in%20Elysee%20-%20Higher%20Occupancy%20Leads%20to%20Significantly%20Higher%20Rates.png)
+![Trends in Average Airbnb Prices and New Host Growth (2008-2021) - New Host Counts Decrease Since 2015](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Python/Maven%20Analytics%20-%20Airbnb%20Listings%20%26%20Reviews/Visualizations/Trends%20in%20Average%20Airbnb%20Prices%20and%20New%20Host%20Growth%20(2008-2021)%20-%20New%20Host%20Counts%20Decrease%20Since%202015.png)
+
+
 ## Project Objectives
 The project was structured around three key objectives:
 ### 1. Data Profiling & Quality Assurance (QA):
