@@ -1,6 +1,6 @@
 # Data Analysis Portfolio
 ## Python
-### AirBnB Trends: Parisian Perspectives
+### AirBnB Trends: Parisian Perspectives ([Maven Analytics](https://mavenanalytics.io/blog/introducing-guided-projects))
 ![Average Airbnb Prices Across Paris Neighbourhoods - Elysee Leads with Highest Rates](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Python/Maven%20Analytics%20-%20Airbnb%20Listings%20%26%20Reviews/Visualizations/Average%20Airbnb%20Prices%20Across%20Paris%20Neighbourhoods%20-%20Elysee%20Leads%20with%20Highest%20Rates.png)
 [AirBnB Listing Analysis](https://github.com/ArashCh/Data-Analysis-Portfolio/tree/master/Python/Maven%20Analytics%20-%20Airbnb%20Listings%20%26%20Reviews)
 ## Excel
