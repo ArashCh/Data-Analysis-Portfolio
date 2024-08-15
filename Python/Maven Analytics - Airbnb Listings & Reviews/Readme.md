@@ -1,4 +1,4 @@
-# AirBnB Listing Analysis in Paris - Maven Analytics Project
+# AirBnB Listing Analysis in Paris - [Maven Analytics Project](https://mavenanalytics.io/blog/introducing-guided-projects)
 
 ## Project Overview
 This project focused on analyzing AirBnB listings in Paris, with a particular emphasis on understanding the impact of recent regulations on the market. The project involved data profiling, preparation for visualization, and detailed analysis to draw meaningful insights from the data. The primary goal was to determine how the 2015 regulations affected new host entries and the pricing landscape in Paris.
@@ -38,9 +38,14 @@ The project was structured around three key objectives:
 
 ## Tools and Techniques
 - **Python & Pandas:** Used for data manipulation, cleaning, and aggregation tasks to create the required DataFrames.
+  - You can find my code (an ipynb file) here as well. I've asked [Mr. Chris Dutton](https://mavenanalytics.io/meet-the-team/chris-dutton) directly for his permission for sharing the code on my portfolio)
 - **Matplotlib:** Utilized for creating and customizing visualizations.
 
 ![MavenAnalytics Badge](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Python/Maven%20Analytics%20-%20Airbnb%20Listings%20%26%20Reviews/MavenAnalytics-Airbnb-Listing-Badge.png)
+
+The Guided Project on [Maven Analytics](https://mavenanalytics.io/) is instructed by [Mr. Chris Bruehl](https://mavenanalytics.io/meet-the-team/chris-bruehl)
+
+
 ---
 **Author:** [A. Arash Chitgar](https://www.linkedin.com/in/a-arash-chitgar/)
 
