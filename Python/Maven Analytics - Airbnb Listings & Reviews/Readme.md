@@ -40,7 +40,7 @@ The project was structured around three key objectives:
 - **Python & Pandas:** Used for data manipulation, cleaning, and aggregation tasks to create the required DataFrames.
 - **Matplotlib:** Utilized for creating and customizing visualizations.
 
-
+![MavenAnalytics Badge](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Python/Maven%20Analytics%20-%20Airbnb%20Listings%20%26%20Reviews/MavenAnalytics-Airbnb-Listing-Badge.png)
 ---
 **Author:** [A. Arash Chitgar](https://www.linkedin.com/in/a-arash-chitgar/)
 
