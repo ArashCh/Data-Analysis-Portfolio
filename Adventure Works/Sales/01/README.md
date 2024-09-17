@@ -58,12 +58,12 @@ Here are the insights and information as the result of running the queries:
 
 
 ## Files in This Repository
-- [00_creating_views.sql]
-- [01_total_sales_by_category.sql]
-- [02_top_customers.sql]
-- [03_top_selling_products.sql]
-- [04_sales_trends.sql]
-- [05_regional_sales_performance.sql]
+- [00_creating_views.sql](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Adventure%20Works/Sales/01/00_creating_views.sql)
+- [01_total_sales_by_category.sql](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Adventure%20Works/Sales/01/01_total_sales_by_category.sql)
+- [02_top_customers.sql](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Adventure%20Works/Sales/01/02_top_customers.sql)
+- [03_top_selling_products.sql](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Adventure%20Works/Sales/01/03_top_selling_products.sql)
+- [04_sales_trends.sql](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Adventure%20Works/Sales/01/04_sales_trends.sql)
+- [05_regional_sales_performance.sql](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Adventure%20Works/Sales/01/05_regional_sales_performance.sql)
 - README.md (You're reading it now!)
 
   ---
