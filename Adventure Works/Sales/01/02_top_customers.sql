@@ -8,6 +8,4 @@ FROM vFactSales AS s
 JOIN DimCustomer AS c
 	ON s.CustomerKey = c.CustomerKey  -- getting the customers who ordered
 GROUP BY CONCAT(c.Title, ' ', c.FirstName, ' ', c.LastName)  -- grouping by the customer
--- ORDER BY SUM(s.StdSalesAmount) DESC  -- ordering by seeing the highest sales revenue generated first
-
 
