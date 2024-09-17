@@ -9,6 +9,7 @@ JOIN DimProduct AS p
 	ON s.ProductKey = p.ProductKey
 GROUP BY p.EnglishProductName
 ORDER BY SUM(s.StdSalesAmount) DESC
+	
 -- Top 10 Products in Terms of Units Sold
 SELECT TOP 10
 	p.EnglishProductName AS Product,
