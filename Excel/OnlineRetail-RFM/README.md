@@ -30,21 +30,47 @@ A transactional dataset containing 541,909 rows of online retail transactions du
   * LastPurchaseDate: Max of the "InvoiceDate" column.
   * Country: Min of the "Country" column.
 * **Step 8:** Created the "Recency" column to show days past from the last purchase (considering the last day's next day as the reference day). (In the sheet)
-* **Step 9:** Added a "RecencyLabel" column based on the "Recency" column (In the sheet):
-  * 1 to 30 days: "Very Recent"
-  * 31 to 60 days: "Recent"
-  * 61 to 90 days: "Moderate"
-  * +90 days: "Distant"
+* **Step 9:** Added a "RecencyLabel" column based on the "Recency" column using the quartiles (In the sheet):
+  * Very Recent
+  * Recent
+  * Moderate
+  * Distant
 * **Step 10:** Added a "RecencyScore" column representing the "RecencyLabel" numerical score. (In the sheet)
-* **Step 11:** Added the "FrequencyLabel" column based on the "Frequency" column (In the sheet):
-  * 0 to 0.33 percentile: "Low Frequency"
-  * 0.33 to 0.66 percentile: "Medium Frequency"
-  * +0.66 percentile: "High Frequency"
+* **Step 11:** Added the "FrequencyLabel" column based on the "Frequency" column using the quartiles (In the sheet):
+  * High Freq.
+  * Medium Freq.
+  * Low Freq.
+  * Very Low Freq.
 * **Step 12:** Added a "FrequencyScore" column representing the "FrequencyLabel" numerical score. (In the sheet)
-* **Step 13:** Added the "MonetaryLabel" column based on the "Monetary" column using the same approach applied to "FrequencyLabel". (In the sheet)
+* **Step 13:** Added the "MonetaryLabel" column based on the "Monetary" column using the quartiles. (In the sheet)
+ *  High Spending
+ *  Medium Spending
+ *  Low Spending
+ *  Very Low Spending
 * **Step 14:** Added a "MonetaryScore" column representing the "MonetaryLabel" numerical score. (In the sheet)
 * **Step 15:** Added the "RFMScore" using the concatenation of RecencyScore, FrequencyScore, and MonetaryScore. (In the sheet)
 * **Step 16:** Created the "Segment" column based on different scenarios (In the sheet):
-  * Champions: Very Recent, High Frequency, High Spending
-  * Loyal Customers: Recet or Very Recent, Medium Frequency, Medium Spending
-  * Potential Loyalists: Very Recent or Recent, 
+  * Engaged/Loyal: Very Recent or Recent - High Freq. or Medium Freq. - High Spending or Medium Spending
+  * Growth Potential: Moderate to Very Recent - Low to High Freq. - Low to High Spending
+  * At-Risk: Distant to Moderate - Medium or High Freq. - Medium or High Spending
+  * Low Value
+
+## Grouping Segments and Recommendations
+Grouped the table by Segments, Counted the Customers in each segment, added the description of each segment, and finally provided actionable recommendations for each segment.
+
+
+## Screenshots
+###The Power Query
+![The Power Query](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Excel/OnlineRetail-RFM/Screenshots/Screenshot-PowerQuery.png)
+###The Table
+![The Table](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Excel/OnlineRetail-RFM/Screenshots/Screenshot-Table.png)
+###The Result
+![The Result](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Excel/OnlineRetail-RFM/Screenshots/Screenshot-Segmentation.png)
+
+
+---
+**Author:** [A. Arash Chitgar](https://www.linkedin.com/in/a-arash-chitgar/)
+
+**Contact:**
+- [Telegram](https://t.me/Arash_Chitgar)
+- [Email](a.arash.chitgar@gmail.com)
