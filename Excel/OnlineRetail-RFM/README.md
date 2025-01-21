@@ -60,11 +60,11 @@ Grouped the table by Segments, Counted the Customers in each segment, added the 
 
 
 ## Screenshots
-###The Power Query
+### The Power Query
 ![The Power Query](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Excel/OnlineRetail-RFM/Screenshots/Screenshot-PowerQuery.png)
-###The Table
+### The Table
 ![The Table](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Excel/OnlineRetail-RFM/Screenshots/Screenshot-Table.png)
-###The Result
+### The Result
 ![The Result](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Excel/OnlineRetail-RFM/Screenshots/Screenshot-Segmentation.png)
 
 
