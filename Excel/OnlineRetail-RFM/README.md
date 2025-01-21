@@ -43,10 +43,10 @@ A transactional dataset containing 541,909 rows of online retail transactions du
   * Very Low Freq.
 * **Step 12:** Added a "FrequencyScore" column representing the "FrequencyLabel" numerical score. (In the sheet)
 * **Step 13:** Added the "MonetaryLabel" column based on the "Monetary" column using the quartiles. (In the sheet)
- *  High Spending
- *  Medium Spending
- *  Low Spending
- *  Very Low Spending
+  * High Spending
+  * Medium Spending
+  * Low Spending
+  * Very Low Spending
 * **Step 14:** Added a "MonetaryScore" column representing the "MonetaryLabel" numerical score. (In the sheet)
 * **Step 15:** Added the "RFMScore" using the concatenation of RecencyScore, FrequencyScore, and MonetaryScore. (In the sheet)
 * **Step 16:** Created the "Segment" column based on different scenarios (In the sheet):
