@@ -19,6 +19,9 @@ Below is a quick summary:
 ![WellNex](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Power%20BI/WellNex/Screenshots/Campaign%20Dashboard.png)
 [Read more...](https://github.com/ArashCh/Data-Analysis-Portfolio/tree/master/Power%20BI/WellNex)
 ## Excel
+### Online Retail - RFM Analysis
+![The Result](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Excel/OnlineRetail-RFM/Screenshots/Screenshot-Segmentation.png)
+[Read more...](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Excel/OnlineRetail-RFM/README.md)
 ### Prime Cut Meat Shop
 ![PrimeCut](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Excel/Prime%20Cut/Dashboard%20Screenshot.png)
 [Read more...](https://github.com/ArashCh/Data-Analysis-Portfolio/tree/master/Excel/Prime%20Cut)
