@@ -68,6 +68,9 @@ Grouped the table by Segments, Counted the Customers in each segment, added the 
 ![The Result](https://github.com/ArashCh/Data-Analysis-Portfolio/blob/master/Excel/OnlineRetail-RFM/Screenshots/Screenshot-Segmentation.png)
 
 
+## Bonus
+Looking for the Python version? Check out this [notebook of mine on Kaggle](https://www.kaggle.com/code/arashchitgar/onlineretail-rfm-analysis).
+
 ---
 **Author:** [A. Arash Chitgar](https://www.linkedin.com/in/a-arash-chitgar/)
 
